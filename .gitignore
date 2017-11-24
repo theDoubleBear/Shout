@@ -52,7 +52,6 @@ buck-out/
 */fastlane/Preview.html
 */fastlane/screenshots
 
-src/images/
 ios/
 android/
 __tests__
